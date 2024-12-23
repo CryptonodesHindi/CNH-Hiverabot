@@ -5,7 +5,7 @@ C       RRRRR     Y    PPPP     T   O   O     N N N  O   O  D   D EEEE       HHH
 C       R   R     Y    P        T   O   O     N  NN  O   O  D   D E          H   H   I   N  NN  D   D   I 
  CCCCC  R    R    Y    P        T    OOO      N   N   OOO   DDDD  EEEEE      H   H  III  N   N  DDDD   III
 
-                 Running testnet Plaza Finance Bot - Made by Rajesh
+                      Running Hivera Bot - Made by Rajesh
                        https://linktr.ee/cryptonodehindi
 \n`;
 
